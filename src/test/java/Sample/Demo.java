@@ -12,6 +12,8 @@ public class Demo {
 		System.out.println("Demo update");
 		
 		System.err.println("Demo again updated");
+		
+		System.err.println("Demo finish");
 	}
 	
 	@Test
