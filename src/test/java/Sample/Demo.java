@@ -21,6 +21,9 @@ public class Demo {
 	public void user2()
 	{
 		System.out.println("This is user");
+	
+		System.out.println("User updated");
 	}
+	
 
 }
