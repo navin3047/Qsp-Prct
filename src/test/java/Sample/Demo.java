@@ -15,7 +15,7 @@ public class Demo {
 	@Test
 	public void user2()
 	{
-		System.out.println("This is user1");
+		System.out.println("This is user");
 	}
 
 }
