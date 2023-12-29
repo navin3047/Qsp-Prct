@@ -13,7 +13,7 @@ public class Demo {
 	@Test
 	public void user2()
 	{
-		System.out.println("This is user");
+		System.out.println("This is user1");
 	}
 
 }
