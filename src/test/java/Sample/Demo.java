@@ -9,5 +9,11 @@ public class Demo {
 	{
 		System.out.println("This is demo");
 	}
+	
+	@Test
+	public void user2()
+	{
+		System.out.println("This is user");
+	}
 
 }
