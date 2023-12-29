@@ -8,6 +8,8 @@ public class Demo {
 	public void user()
 	{
 		System.out.println("This is demo");
+		
+		System.out.println("Demo update");
 	}
 	
 	@Test
