@@ -10,6 +10,8 @@ public class Demo {
 		System.out.println("This is demo");
 		
 		System.out.println("Demo update");
+		
+		System.err.println("Demo again updated");
 	}
 	
 	@Test
